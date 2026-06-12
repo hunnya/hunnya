@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hunnya
 - I like creating stuff
-- currently learning web and game dev 
+- currently interested in learning 3D modelling
+- also kinda wanna make my own cyberdeck this summer 
 - looking forward to collaborating with other coders
-- let's all learn and grow together 
